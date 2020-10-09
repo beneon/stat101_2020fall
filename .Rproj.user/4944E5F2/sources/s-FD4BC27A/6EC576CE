@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602230407144.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6EC576CE",
+    "lastKnownWriteTime" : 1602232613,
+    "last_content_update" : 1602232613937,
+    "path" : "D:/users/ben/CloudStation/口腔医院工作/教学/医学统计学/讲义/stat101_2020fall/c02/freq_point_gen.R",
+    "project_path" : "c02/freq_point_gen.R",
+    "properties" : {
+        "cursorPosition" : "10,12",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
