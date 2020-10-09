@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602228492410.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8788DDF0",
+    "lastKnownWriteTime" : 1602228506,
+    "last_content_update" : 1602228621567,
+    "path" : "~/stat101_2020fall/c02/freq_point_gen.R",
+    "project_path" : "c02/freq_point_gen.R",
+    "properties" : {
+        "cursorPosition" : "2,22",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

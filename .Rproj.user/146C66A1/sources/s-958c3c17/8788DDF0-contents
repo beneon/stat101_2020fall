@@ -1,0 +1,3 @@
+hist(rbeta(10000,5,2))
+hist(rbeta(10000,2,5))
+hist(rbeta(10000,5,5))
