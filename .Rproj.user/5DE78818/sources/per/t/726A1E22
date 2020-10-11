@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602237682256.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "726A1E22",
+    "lastKnownWriteTime" : 1396359842200,
+    "last_content_update" : 1602237682256,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "123547CE",
+        "caption" : "df_freq_table",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=df_freq_table&cache_key=123547CE",
+        "displayedObservations" : 13,
+        "environment" : "",
+        "expression" : "df_freq_table",
+        "object" : "df_freq_table",
+        "preview" : 0,
+        "totalObservations" : 13,
+        "variables" : 5
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

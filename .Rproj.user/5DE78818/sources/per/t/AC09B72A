@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602393388871.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1802770273",
+    "id" : "AC09B72A",
+    "lastKnownWriteTime" : 1602393923,
+    "last_content_update" : 1602393923704,
+    "path" : "D:/SynologyDrive/口腔医院工作/教学/医学统计学/讲义/stat101_2020fall/c02/05var_x_y.R",
+    "project_path" : "c02/05var_x_y.R",
+    "properties" : {
+        "cursorPosition" : "24,34",
+        "scrollLine" : "4"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
