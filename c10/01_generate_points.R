@@ -10,7 +10,13 @@ df = data.frame(x=x,y=y)
 fit = lm(y~x,data=df)
 hat_beta0=fit$coefficients[1]
 hat_beta1=fit$coefficients[2]
-df = df %>% mutate(hat_y=hat_beta0+hat_beta1*x,mean_y=mean(y),hat_u=y-hat_y)
+df = df %>%
+  mutate(x=round(x,2),y=round(y,2)) %>%
+  mutate(hat_y=hat_beta0+hat_beta1*x,mean_y=mean(y),hat_u=y-hat_y)
+
+df %>% ggplot(aes(x=x,y=y))+
+  geom_point()
+
 df %>% ggplot(aes(x=x,y=y))+
   geom_point()+
   geom_hline(aes(yintercept=mean(y)))+
